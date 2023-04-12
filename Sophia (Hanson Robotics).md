@@ -5,3 +5,5 @@ Sophia is a Robot occupied with the most advanced AI features, including Speech 
 Another great capability Sophia possess is the ability to learn new things through experience and adapt to new situations. Well, she has access to the internet, which provides a lot of resources to learn new things every time. 
 
 Sophia has gained widespread attention, appearing in numerous magazines and media outlets, due to her human-like features. In October 2017, she made history as the first robot to ever receive citizenship, when she was granted citizenship by Saudi Arabia.
+
+![Sophia](https://thumbs.gfycat.com/AridAmusedDutchshepherddog-max-1mb.gif)
