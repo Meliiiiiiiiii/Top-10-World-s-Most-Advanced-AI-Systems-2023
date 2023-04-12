@@ -4,4 +4,4 @@ As a result, they developed Tesla Autopilot, which is very popular. Tesla Autopi
 
 Tesla Autopilot uses Advanced AI technologies like Computer Vision, Deep Learning, Sensor Fusion, and Motion Planning, and uses Deep Reinforcement Learning for learning through experience over time. As a matter of fact, Tesla Autopilot is continuously learning and improving its capabilities through reinforcement learning for making good decisions on the road far better than humans.
 
-![Tesla](https://thumbs.gfycat.com/BeneficialSmoothFlamingo-max-1mb.gif)
+![Tesla](https://www.teslarati.com/wp-content/uploads/2021/01/tesla-autopilot-revenue.gif)
