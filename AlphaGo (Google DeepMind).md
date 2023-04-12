@@ -5,4 +5,5 @@ Go is a kind of ancient Chinese board game that has simple rules but is incredib
 But AlphaGo developed a human-level intuition and is able to play the game more creatively than anyone ever played. This is possible by a method of training machine learning models known as Deep Reinforcement Learning. The model is trained over a large corpus of human Go games and fine-tuned using Reinforcement learning (learning through trial and error method).
 
 The victory of AlphaGo over Lee Sedol was a great moment in the history of Artificial Intelligence and Machine Learning. The researchers at DeepMind claim that their AI is general-purpose, meaning that it can do a lot more than just play Go. As a result, engineers used it to regulate the cooling systems in Google data centers and also used to solve other kinds of problems like protein folding, etc.
-![melina](https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Hello_Web_Series_%28Wordmark%29_Logo.png/1200px-Hello_Web_Series_%28Wordmark%29_Logo.png)
+
+![AlphaGO](https://thumbs.gfycat.com/AnimatedAmazingCirriped-size_restricted.gif)
