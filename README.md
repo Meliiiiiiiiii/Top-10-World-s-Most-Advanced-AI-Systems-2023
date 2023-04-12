@@ -13,11 +13,14 @@ In this article, we present a list of the top 10 most advanced AI systems in the
 
 ## ⚡️Topics
 
+_**Main Branch :**_ 
 - GPT
 - AlphaGo (Google DeepMind)
 - Watson (IBM)
 - Sophia (Hanson Robotics)
 - Tesla Autopilot (Tesla Inc)
+
+_**Second-Branch :**_
 - Siri
 - Amazon Alexa
 - Google Assistant
