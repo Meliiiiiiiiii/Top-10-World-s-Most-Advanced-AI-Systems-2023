@@ -13,4 +13,6 @@ Because of this complexity, GPT-3 is able to do a lot of things for us, like wri
  It can even do some cognitive tasks like humans, for instance, if you asked GPT-3 "Which one weighs more, 1 kg of 
  cotton or 1 kg of iron", it will say both of them weigh the same. 
 
-However, the scientists and researchers at OpenAI are always looking forward to building more sophisticated language models. As a result, they launched ChatGPT, the enhanced version of GPT-3 known as GPT-3.5 which is very capable of making conversations with humans and answering follow-up questions.
+However, the scientists and researchers at OpenAI are always looking forward to building more sophisticated language models.
+As a result, they launched ChatGPT, the enhanced version of GPT-3 known as GPT-3.5 which is very capable of making 
+conversations with humans and answering follow-up questions.
