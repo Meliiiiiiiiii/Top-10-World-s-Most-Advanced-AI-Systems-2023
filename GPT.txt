@@ -1,0 +1,7 @@
+The first in our list is GPT-3 short for Generative Pre-trained Transformer 3 is the third series of generative language models developed by OpenAI. GPT-3 is indeed a large Neural Network that is capable of generating human-like text and also can understand natural language. It is far better than every language model ever built, and also some of its previous versions as well.
+
+GPT-3 is said to be one of the most advanced language models ever made, trained on terabytes of data containing 175 billion parameters, compared to Turing NLG by Microsoft has 17 billion parameters. It is pretty large and because of that, it takes the company months to train the algorithm with a computational cost of over $4.3 million.
+
+Because of this complexity, GPT-3 is able to do a lot of things for us, like writing a project thesis to write code for your university project and even making an entire YouTube video script, and so on. It can even do some cognitive tasks like humans, for instance, if you asked GPT-3 "Which one weighs more, 1 kg of cotton or 1 kg of iron", it will say both of them weigh the same. 
+
+However, the scientists and researchers at OpenAI are always looking forward to building more sophisticated language models. As a result, they launched ChatGPT, the enhanced version of GPT-3 known as GPT-3.5 which is very capable of making conversations with humans and answering follow-up questions.
