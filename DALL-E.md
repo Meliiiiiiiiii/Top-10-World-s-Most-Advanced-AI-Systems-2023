@@ -4,3 +4,5 @@ DALL-E works by taking a textual input, such as "an armchair in the shape of an 
 DALL-E has generated a lot of interest and attention due to its impressive ability to create original and complex images from textual descriptions. It has many potential applications, such as helping designers and artists generate ideas and prototypes, creating virtual environments for video games and simulations, and generating realistic training data for machine learning models.
 Overall, DALL-E is a fascinating example of an AI system that is pushing the boundaries of what is possible with deep learning and generative models.
 
+![DALL-E](https://cdn.analyticsvidhya.com/wp-content/uploads/2021/01/dall-e.gif)
+
